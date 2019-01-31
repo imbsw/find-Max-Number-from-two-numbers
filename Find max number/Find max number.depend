@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548958381 source:c:\users\buddh\documents\my projects\find max number\main.c
+	<stdio.h>
+	<stdlib.h>
+
